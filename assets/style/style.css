@@ -1331,6 +1331,10 @@ footer {
         justify-content: flex-start;
 
     }
+
+    .section_carCollection_pagination{
+        margin-top: 50px;
+    }
 }
 
 @media screen and (max-width: 1000px){
@@ -1461,6 +1465,7 @@ footer {
     .section_carCollection_pagination{
         gap: 12px;
         margin: auto;
+        margin-top: 50px;
     }
 
     .testimonals_section_main_text > h1{
